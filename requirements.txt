@@ -1,0 +1,10 @@
+numpy
+imageio
+scipy
+pandas
+matplotlib
+sklearn
+torch
+ipython
+jupyter
+jupytext
